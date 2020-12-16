@@ -1,0 +1,19 @@
+{
+  "name": "lab-partner",
+  "version": "1.0.0",
+  "description": "Automatically create placeholders for unit tests from source code",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lab-partner": "./bin/index.js"
+  },
+  "preferGlobal": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/standalone": "^7.12.11"
+  }
+}
