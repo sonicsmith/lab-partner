@@ -19,5 +19,5 @@ $ yarn global add lab-partner
 ## Usage
 
 ```sh
-$ lab-parner FILENAME
+$ lab-partner FILENAME
 ```
